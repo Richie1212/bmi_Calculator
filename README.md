@@ -1,4 +1,4 @@
-"""
+
 BMI Calculator Application
 
 A Streamlit-based web application that calculates Body Mass Index (BMI) and provides
@@ -49,4 +49,3 @@ Disclaimer:
 
 Author: richardsyeb23@gmail.com
 Framework: Streamlit
-"""
