@@ -53,3 +53,12 @@ st.write(" Obesity Class III: BMI is 40 or more")
 st.write("\n")
 st.markdown("<p style='color:red;'> Note: This is a simple BMI calculator and should " \
 "not replace professional medical advice.</p>", unsafe_allow_html=True)
+
+
+
+if st.button("Reset"):
+    pass # Streamlit automatially resets inputs on rerun
+
+if st.button("About"):
+    st.info("This BMI Calculator was dveloped using Streamlit. It helps you calculate your Body Mass Index (bmi) based" \
+    "on your weight and height, and provides insights into your health status.")
