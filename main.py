@@ -62,3 +62,7 @@ if st.button("Reset"):
 if st.button("About"):
     st.info("This BMI Calculator was dveloped using Streamlit. It helps you calculate your Body Mass Index (bmi) based" \
     "on your weight and height, and provides insights into your health status.")
+
+
+if st.button("Contact"):
+    st.info("For any inquiries or feedback, please contact us at richardsyeb23@gmail.com")
