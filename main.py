@@ -1,5 +1,6 @@
 import streamlit as st
 
+
 st.title("BMI Calculator")
 
 ## Input fields
@@ -66,3 +67,6 @@ if st.button("About"):
 
 if st.button("Contact"):
     st.info("For any inquiries or feedback, please contact us at richardsyeb23@gmail.com")
+
+
+
