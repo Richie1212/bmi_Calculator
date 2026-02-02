@@ -1,10 +1,10 @@
 
-BMI Calculator Application
+## BMI Calculator Application
 
 A Streamlit-based web application that calculates Body Mass Index (BMI) and provides
 health status insights based on the calculated BMI value.
 
-Module Overview:
+**Module Overview**:
     This application provides users with a simple and interactive interface to:
     - Input personal information (name, age, weight, height)
     - Calculate BMI using the standard formula: (weight in pounds * 703) / (height in inches)²
@@ -12,7 +12,7 @@ Module Overview:
     - View BMI classification categories
     - Access application information and contact details
 
-Features:
+**Features**:
     - User-friendly input fields for personal data collection
     - Real-time BMI calculation and display with 2 decimal precision
     - BMI categorization with personalized health recommendations:
@@ -27,13 +27,13 @@ Features:
     - About section with application description
     - Contact information for user inquiries
 
-Dependencies:
+**Dependencies**:
     - streamlit: Web application framework for building interactive data applications
 
-Functions:
+**Functions**:
     - BMI Calculation: (weight * 703) / (height ** 2)
 
-UI Components:
+**UI Components**:
     - Title: "BMI Calculator"
     - Input Section: Two-column layout for efficient data entry
     - Results Section: Displays calculated BMI score
@@ -42,13 +42,13 @@ UI Components:
     - Action Buttons: Reset, About, and Contact functionalities
     - Disclaimer: Medical advice notice with styled text
 
-Disclaimer:
+**Disclaimer**:
     This application provides general BMI calculations and should not be used as a
     substitute for professional medical advice. Users should consult healthcare
     professionals for personalized health assessments.
 
-Author: richardsyeb23@gmail.com
-Framework: Streamlit
+**`Author: richardsyeb23@gmail.com`**
+**`Framework: Streamlit`**
 
-https://bmimod.streamlit.app/
+## https://bmimod.streamlit.app/
 
